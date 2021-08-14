@@ -4,8 +4,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;CyberSecurity+Enthusiast;Graphic%20Designer;Making+My+Dent+in+the+Universe&center=true&width=500&height=40"></a>
 </p>
 <hr/>
-<h4 align="center">I am a computer science Student, who is chasing excellence </h4>
+<h4 align="center">I am a computer science student, who is chasing EXCELLENCE </h4>
 <br>
+- 🌱 I am currently trying to fix the glich in the matrix.<br>
+- 📫 Best Way to Reach Me -<a href="https://www.linkedin.com/in/swatej-patil-725001202/" target="_top">LinkedIn</a><br>
 
 
 
