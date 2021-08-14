@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SwatejPatil&label=Swatej's%20Profile%20Views%20&color=dc143c&style=plastic" alt="SwatejPatil" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwatejPatil&theme=algolia" alt="SwatejPatil" height ="150px"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwatejPatil&theme=algolia" alt="SwatejPatil" height ="170px"/></p>
 
 
 
