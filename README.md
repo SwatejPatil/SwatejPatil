@@ -11,7 +11,9 @@
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwatejPatil)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swatej-patil-725001202/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
+[![Telegram](https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Agent_Of_Chaoss)
+
 ## 🔥 Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwatejPatil&theme=algolia" alt="SwatejPatil" height ="170px"/></p>
 
