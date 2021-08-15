@@ -1,5 +1,5 @@
 
-<h1 align="center">    Hi , I'm Swatej Patil <img src="https://media .giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
+<h1 align="center">    Hi , I'm Swatej Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?ont=comfortaa&color=016EEA&size=24&lines=Computer+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Graphic%20Designer;Making+My+Dent+in+the+Universe&center=true&width=500&height=50"></a>
 </p>
