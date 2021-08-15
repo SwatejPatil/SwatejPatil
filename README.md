@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi , I'm Swatej Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h1>
+<h1 align="center">    Hi , I'm Swatej Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;CyberSecurity+Enthusiast;Graphic%20Designer;Making+My+Dent+in+the+Universe&center=true&width=500&height=40"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?ont=comfortaa&color=016EEA&size=24&lines=Computer+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Graphic%20Designer;Making+My+Dent+in+the+Universe&center=true&width=500&height=50"></a>
 </p>
+
+
 <hr/>
 <h4 align="center">I am a computer science student, who is chasing EXCELLENCE </h4>
 <br>
