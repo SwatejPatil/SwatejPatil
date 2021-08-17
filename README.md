@@ -90,10 +90,8 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/12puvr4jvqy5yrh0zyx2iwxhc)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/ssu4tm3m94e02cv4vdczlf150)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
 
  
 ## Connect with Me
