@@ -21,32 +21,6 @@
 
 
 
-## 📊 Github Stats (Expand to View) 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
- <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwatejPatil&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwatejPatil&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-   <a href="https://github.com/SwatejPatil"><img alt="SwatejPatil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SwatejPatil&custom_title=Swatej%20Patil's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-<!-- <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SwatejPatil)
-
-</details> -->
-
 ### Languages and Tools:
 ![Github](https://img.icons8.com/fluency/35/000000/github.png)
 ![Git](https://img.icons8.com/color/35/git.png)
@@ -74,21 +48,40 @@
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a> 
 
-
-
-
 <a href="https://inkscape.org/" target="_blank"> <img align="left" alt="InkScape" src="https://img.icons8.com/nolan/48/inkscape.png"/> </a>
 
 <a href="https://www.gimp.org//" target="_blank"> <img align="left" alt="gimp"  src="https://img.icons8.com/nolan/48/gimp.png"/> </a>
 
-
-
 <a href="https://affinity.serif.com/en-us/" target="_blank"> <img align="left" alt="affinity" src="https://img.icons8.com/fluency/48/000000/affinity-designer.png"/> </a>
 
-
-
 <br />
 <br />
+
+## 📊 Github Stats (Expand to View) 
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+ <p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwatejPatil&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwatejPatil&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+   <a href="https://github.com/SwatejPatil"><img alt="SwatejPatil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SwatejPatil&custom_title=Swatej%20Patil's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+<!-- <details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SwatejPatil)
+
+</details> -->
 
 ### Now Playing 🎧
 
