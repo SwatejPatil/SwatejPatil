@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi, I'm Swatej Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?ont=comfortaa&color=016EEA&size=24&lines=Computer+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Graphic%20Designer;Making+My+Dent+in+the+Universe&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hi, I'm Swatej Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h1>
 
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=45F736&size=40&center=true&vCenter=true&width=610&lines=Computer+Science+Student+;Web+Developer;Graphics+Designer+;Cyber+Security+Enthusiast;Making+My+Dent+in+the+Universe)](https://git.io/typing-svg)
+  
+</div>
 <hr/>
-<h4 align="center">I am a computer science student, who is chasing EXCELLENCE </h4>
+<h3 align="center">I am chasing EXCELLENCE!!! </h3>
 <br>
 - 🌱 I am currently trying to fix the glich in the matrix.<br>
 - 📫 Best Way to Reach Me -<a href="https://www.linkedin.com/in/swatej-patil-725001202/" target="_top">LinkedIn</a><br>
