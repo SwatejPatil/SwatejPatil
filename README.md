@@ -22,11 +22,6 @@
   
 </p>
 
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwatejPatil&theme=github_dark)
-  
-</div>
 
 ### Languages and Tools:
 ![Github](https://img.icons8.com/fluency/35/000000/github.png)
@@ -75,13 +70,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwatejPatil&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwatejPatil&theme=algolia&layout=compact&exclude_lang=java+r" />
 </a>
-   
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SwatejPatil&theme=dracula)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SwatejPatil&theme=nord_dark)
-   
-</p>
   
-  
+</p>  
 </details>
 
 
@@ -97,6 +87,7 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=SwatejPatil)
 
 </details>
+
 
 ### Now Playing 🎧
 
