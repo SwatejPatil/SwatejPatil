@@ -18,9 +18,15 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwatejPatil&theme=algolia" alt="SwatejPatil" height ="170px"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwatejPatil&theme=algolia" alt="SwatejPatil" height ="170px"/>
+  
+</p>
 
-
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwatejPatil&theme=github_dark)
+  
+</div>
 
 ### Languages and Tools:
 ![Github](https://img.icons8.com/fluency/35/000000/github.png)
@@ -58,16 +64,24 @@
 <br />
 <br />
 
+
+
 ## 📊 Github Stats (Expand to View) 
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
  <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwatejPatil&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwatejPatil&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwatejPatil&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwatejPatil&theme=algolia&layout=compact&exclude_lang=java+r" />
 </a>
+   
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SwatejPatil&theme=dracula)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SwatejPatil&theme=nord_dark)
+   
 </p>
+  
+  
 </details>
 
 
