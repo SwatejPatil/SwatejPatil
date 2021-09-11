@@ -101,3 +101,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Agent_Of_Chaoss)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ssu4tm3m94e02cv4vdczlf150)
+[![Codepen](https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SwatejPatil)
