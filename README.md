@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=39FF14&size=36&center=true&vCenter=true&width=650&lines=Computer+Science+Student+;Web+Developer;Graphics+Designer+;Cyber+Security+Enthusiast;Making+a+Dent+in+the+Universe)](https://git.io/typing-svg)
   
 </div>
-<hr/>
-<h3 align="center">I am chasing EXCELLENCE!!! </h3>
+<!-- <hr/>
+<h3 align="center">I am chasing EXCELLENCE!!! </h3> -->
 <br>
 - 🌱 I am currently trying to fix the glich in the matrix.<br>
 - 📫 Best Way to Reach Me -<a href="https://www.linkedin.com/in/swatej-patil-725001202/" target="_top">LinkedIn</a><br>
