@@ -50,9 +50,9 @@
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a> 
 
-<a href="https://inkscape.org/" target="_blank"> <img align="left" alt="InkScape" src="https://img.icons8.com/nolan/48/inkscape.png"/> </a>
+<a href="https://inkscape.org/" target="_blank"> <img align="left" alt="InkScape" src="https://img.icons8.com/color/48/000000/inkscape.png"/> </a>
 
-<a href="https://www.gimp.org//" target="_blank"> <img align="left" alt="gimp"  src="https://img.icons8.com/nolan/48/gimp.png"/> </a>
+<a href="https://www.gimp.org//" target="_blank"> <img align="left" alt="gimp"  src="https://img.icons8.com/color/48/000000/gimp.png"/> </a>
 
 <a href="https://affinity.serif.com/en-us/" target="_blank"> <img align="left" alt="affinity" src="https://img.icons8.com/fluency/48/000000/affinity-designer.png"/> </a>
 
