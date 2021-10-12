@@ -54,8 +54,6 @@
 
 <a href="https://www.gimp.org//" target="_blank"> <img align="left" alt="gimp"  src="https://img.icons8.com/color/48/000000/gimp.png"/> </a>
 
-<a href="https://www.gimp.org//" target="_blank"> <img align="left" alt="gimp"  src="https://img.icons8.com/fluency/48/000000/affinity-photo-1.png"/> </a>
-
 <a href="https://affinity.serif.com/en-us/" target="_blank"> <img align="left" alt="affinity" src="https://img.icons8.com/fluency/48/000000/affinity-designer.png"/> </a>
 
 <br />
