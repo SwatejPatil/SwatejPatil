@@ -9,9 +9,9 @@
 <!-- <hr/>
 <h3 align="center">I am chasing EXCELLENCE!!! </h3> -->
 <br>
-- 🌱  Trying to fix the glich in the Matrix💊💻⚡<br>
+<h3>- 🌱  Trying to fix the glich in the Matrix💊💻⚡<br>
 - 📫 Best Way to Reach Me -<a href="https://www.linkedin.com/in/swatej-patil-725001202/" target="_top">LinkedIn</a><br>
-
+<h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SwatejPatil&label=Swatej's%20Profile%20Views%20&color=008000&style=social" alt="SwatejPatil" /> </p>
